@@ -1,0 +1,7 @@
+ul a.active {
+    border-bottom: 2px solid slateblue;
+}
+hover:hover {
+    color: white;
+    background-color: turquoise;
+}
